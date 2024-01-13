@@ -1,0 +1,10 @@
+#Rules don't use ( i) ( ii) ( iii) and ( iv) in your questions and * after (<option number>) will be make the option treated as correct one another thing that each question must starts with ~ ~ plus newline, examples are done, four options at most is possible for a single question
+
+[author name , subject , class , 2024]
+~~
+2+2
+(i)* 4 (ii) 3 (iii) 6
+(iv) 5
+~~
+Apple is a _____
+(i)* fruit (ii) veg (iii) rock (iv) drink
